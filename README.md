@@ -8,6 +8,6 @@ local abbas = {
   harness = "opencode",
   languages = { "typescript", "rust", "lua", "php" },
   editor = "neovim",
-  site = "https://abbashayder.com/",
+  site = "https://abbashayder.com",
 }
 ```
