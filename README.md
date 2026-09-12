@@ -6,7 +6,7 @@ local abbas = {
   company = "odevo",
   location = "stockholm, se",
   harness = "pi",
-  languages = { "typescript", "rust", "lua", "php" },
+  languages = { "markdown", "typescript", "php", "lua" },
   editor = "neovim",
   site = "https://abbashayder.com",
 }
